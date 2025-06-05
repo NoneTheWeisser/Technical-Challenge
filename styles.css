@@ -1,0 +1,78 @@
+body {font-family: Sans-Serif;
+ }
+
+address {font-family: serif;
+font-style: normal}
+
+#background{ margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px, 150px, 10px, 150px;
+background-color: #ccddff}
+
+.container{max-width: 700px;
+   margin: 0 auto;      
+  text-align: left;     
+  padding: 20px; }
+
+hr{
+  height: 1px;
+  border-color:white;
+  background-color:white;
+
+}
+h1{font-size:40px
+padding-bottom:}
+
+h2 {font-size: 15px;
+ }
+
+.header {background-color:#002b80;
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom:20px;
+  color:white; font-family:Serif;
+text-align:left}
+ 
+  #profile {
+display: inline-block;
+max-width:  ;
+    padding-right: 20px;
+padding-bottom:5px;}
+
+
+img {
+float: left;    
+ margin: 0 15px 0 0;
+  max-width: 200;
+  padding-bottom:10px
+}
+
+h2{margin-top:10px;
+color:#002b80}
+
+h3 {font-family:Serif}
+h4 {
+  margin-top: -15px;
+font-size:16px}
+h5 {
+  margin-top: -15px;
+  margin-bottom:20px;
+font-size:12px}
+
+.awards {
+  margin-top: -15px;
+  margin-bottom:20px;
+font-size:14px;
+font-family:sans-serif;
+}
+
+p {font-size: 16px}
+
+
+.info {width:80%;
+  margin-left: 20;
+  margin-right: 20;
+  padding: 20px;
+  max-width: 800px;}
